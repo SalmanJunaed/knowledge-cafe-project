@@ -6,7 +6,7 @@
         "author": "John Doe",
         "author_img": "../src/assets/images/boy1.png",
         "posted_date": "2023-09-14",
-        "reading_time": "10 minutes",
+        "reading_time": 10,
         "hashtags": [
             "programming",
             "coding",
@@ -21,7 +21,7 @@
         "author": "Alice Smith",
         "author_img": "../src/assets/images/boy2.png",
         "posted_date": "2023-09-13",
-        "reading_time": "15 minutes",
+        "reading_time": 15,
         "hashtags": [
             "cooking",
             "recipes",
@@ -36,7 +36,7 @@
         "author": "Emily Brown",
         "author_img": "../src/assets/images/girl1.jpg",
         "posted_date": "2023-09-12",
-        "reading_time": "20 minutes",
+        "reading_time": 20,
         "hashtags": [
             "travel",
             "adventure",
@@ -51,7 +51,7 @@
         "author": "David Wilson",
         "author_img": "../src/assets/images/girl2.jpg",
         "posted_date": "2023-09-11",
-        "reading_time": "12 minutes",
+        "reading_time": 12,
         "hashtags": [
             "health",
             "wellness",
